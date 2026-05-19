@@ -32,11 +32,8 @@ face-emotion-recognition/
 │   ├── demo_clip.avi                 # 30-second recorded webcam demo
 │   └── annotated_images/            # Output images with emotion overlays
 │
-└── models/
-    └── fixed_model_3.keras           # Best trained model (CNN Scratch, 63.64% acc)
+└── fixed_model.keras           # Best trained model (CNN Scratch, 63.64% acc)
 ```
-
-> **Note:** The trained model file (`fixed_model_3.keras`, ~15 MB) must be downloaded separately from the Colab notebook or provided alongside the submission. Place it in the root directory before running `main.py`.
 
 ---
 
@@ -60,13 +57,6 @@ source venv/bin/activate
 ### 3. Install Dependencies
 ```bash
 pip install -r requirements.txt
-```
-
-### 4. Place the Model File
-Download `fixed_model_3.keras` and place it in the project root:
-```
-face-emotion-recognition/
-└── fixed_model_3.keras   ← here
 ```
 
 ---
