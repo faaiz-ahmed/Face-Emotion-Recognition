@@ -159,6 +159,19 @@ kagglehub>=0.1.0
 
 ---
 
+## Output
+
+### Happy
+![Happy](output.png)
+
+### Sad
+![Sad](output.png)
+
+### All predicted emotion 
+![All emotions prediction](output.png)
+
+---
+
 ## Key Features
 
 - **Haar Cascade face detection** — fast CPU-based face localisation using `haarcascade_frontalface_default.xml`
