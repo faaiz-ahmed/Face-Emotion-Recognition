@@ -162,13 +162,13 @@ kagglehub>=0.1.0
 ## Output
 
 ### Happy
-![Happy](output.png)
+![Happy Prediction](Outputs/Annotated%20images/annotated_Happy.jpg)
 
 ### Sad
-![Sad](output.png)
+![Sad Test](Outputs/Annotated%20images/Sad_test.png)
 
 ### All predicted emotion 
-![All emotions prediction](output.png)
+![All Emotions Predictions](Outputs/Annotated%20images/All%20emotions%20predictions.png)
 
 ---
 
